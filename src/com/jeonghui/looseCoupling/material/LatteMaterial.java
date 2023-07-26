@@ -1,4 +1,4 @@
-package com.jeonghui.exam.material;
+package com.jeonghui.looseCoupling.material;
 
 public class LatteMaterial implements DrinkMaterial {
 	

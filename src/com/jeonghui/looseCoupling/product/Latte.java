@@ -1,6 +1,6 @@
-package com.jeonghui.exam.product;
+package com.jeonghui.looseCoupling.product;
 
-import com.jeonghui.exam.material.DrinkMaterial;
+import com.jeonghui.looseCoupling.material.DrinkMaterial;
 
 public class Latte implements Product {
 	

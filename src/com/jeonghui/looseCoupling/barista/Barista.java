@@ -1,7 +1,7 @@
-package com.jeonghui.exam.barista;
+package com.jeonghui.looseCoupling.barista;
 
-import com.jeonghui.exam.machine.Machine;
-import com.jeonghui.exam.material.DrinkMaterial;
+import com.jeonghui.looseCoupling.machine.Machine;
+import com.jeonghui.looseCoupling.material.DrinkMaterial;
 
 public interface Barista {
 	public void makeDrink();

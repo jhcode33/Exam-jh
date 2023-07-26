@@ -1,8 +1,8 @@
-package com.jeonghui.exam.machine;
+package com.jeonghui.looseCoupling.machine;
 
-import com.jeonghui.exam.material.DrinkMaterial;
-import com.jeonghui.exam.product.Americano;
-import com.jeonghui.exam.product.Product;
+import com.jeonghui.looseCoupling.material.DrinkMaterial;
+import com.jeonghui.looseCoupling.product.Americano;
+import com.jeonghui.looseCoupling.product.Product;
 
 public class AmericanoMachine implements Machine {
 	

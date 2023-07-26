@@ -1,8 +1,8 @@
-package com.jeonghui.exam.machine;
+package com.jeonghui.looseCoupling.machine;
 
-import com.jeonghui.exam.material.DrinkMaterial;
-import com.jeonghui.exam.product.Latte;
-import com.jeonghui.exam.product.Product;
+import com.jeonghui.looseCoupling.material.DrinkMaterial;
+import com.jeonghui.looseCoupling.product.Latte;
+import com.jeonghui.looseCoupling.product.Product;
 
 public class LatteMachine implements Machine{
 	

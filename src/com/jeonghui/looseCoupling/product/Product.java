@@ -1,4 +1,4 @@
-package com.jeonghui.exam.product;
+package com.jeonghui.looseCoupling.product;
 
 public interface Product {
 	

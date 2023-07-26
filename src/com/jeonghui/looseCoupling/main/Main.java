@@ -1,9 +1,9 @@
-package com.jeonghui.exam.main;
+package com.jeonghui.looseCoupling.main;
 
 import java.util.Scanner;
 
-import com.jeonghui.exam.barista.Barista;
-import com.jeonghui.exam.cafe.CafeFactory;
+import com.jeonghui.looseCoupling.barista.Barista;
+import com.jeonghui.looseCoupling.cafe.CafeFactory;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,14 +1,14 @@
-package com.jeonghui.exam.cafe;
+package com.jeonghui.looseCoupling.cafe;
 
-import com.jeonghui.exam.barista.AmericanoBarista;
-import com.jeonghui.exam.barista.Barista;
-import com.jeonghui.exam.barista.LatteBarista;
-import com.jeonghui.exam.machine.AmericanoMachine;
-import com.jeonghui.exam.machine.LatteMachine;
-import com.jeonghui.exam.machine.Machine;
-import com.jeonghui.exam.material.AmericanoMaterial;
-import com.jeonghui.exam.material.DrinkMaterial;
-import com.jeonghui.exam.material.LatteMaterial;
+import com.jeonghui.looseCoupling.barista.AmericanoBarista;
+import com.jeonghui.looseCoupling.barista.Barista;
+import com.jeonghui.looseCoupling.barista.LatteBarista;
+import com.jeonghui.looseCoupling.machine.AmericanoMachine;
+import com.jeonghui.looseCoupling.machine.LatteMachine;
+import com.jeonghui.looseCoupling.machine.Machine;
+import com.jeonghui.looseCoupling.material.AmericanoMaterial;
+import com.jeonghui.looseCoupling.material.DrinkMaterial;
+import com.jeonghui.looseCoupling.material.LatteMaterial;
 
 public class CafeFactory {
 	
