@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
-    <artifactId>Java_Programming</artifactId>
+    <artifactId>java_programming</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
